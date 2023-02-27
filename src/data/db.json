@@ -1,0 +1,84 @@
+{
+  "patient": [
+    {
+      "name": "mudda",
+      "address": "coorg",
+      "disease": "head ache",
+      "age": "2000-01-31",
+      "email": "mudda@gmail.com",
+      "contact": "9999909989",
+      "state": "karnataka",
+      "id": 1
+    },
+    {
+      "name": "amogh",
+      "address": "Bangalore",
+      "disease": "depression",
+      "age": "1999-12-20",
+      "email": "amogh@gmail.com",
+      "contact": "9992713362",
+      "state": "karnataka",
+      "id": 2
+    },
+    {
+      "name": "punith",
+      "address": "Gavi Puram Bangalore",
+      "disease": "corona",
+      "age": "2000-12-30",
+      "email": "puni@gmail.com",
+      "contact": "7829901990",
+      "state": "karnataka",
+      "id": 3
+    },
+    {
+      "name": "vinayak",
+      "address": "balagavi",
+      "disease": "heart",
+      "age": "2000-01-20",
+      "email": "vinayak@gmail.com",
+      "contact": "8939001983",
+      "state": "karnataka",
+      "id": 5
+    },
+    {
+      "name": "kaddi",
+      "address": "jspiders basavangudi",
+      "disease": "food poison",
+      "age": "2010-09-30",
+      "email": "kaddi@gmail.com",
+      "contact": "9376289001",
+      "state": "karnataka",
+      "id": 6
+    },
+    {
+      "name": "sachin",
+      "address": "Gavi puram",
+      "disease": "eye",
+      "age": "2000-02-20",
+      "email": "sachin@gmail.com",
+      "contact": "2829100992",
+      "state": "karnataka",
+      "id": 7
+    }
+  ],
+  "Doctor": [
+    {
+      "name": "asha",
+      "Specialist": "mind",
+      "age": "2000-01-28",
+      "email": "asha@gmail.com",
+      "conctact": "9873589200",
+      "state": "karnataka",
+      "id": 5
+    },
+    {
+      "name": "raju",
+      "Specialist": "heart",
+      "age": "2000-05-20",
+      "email": "raju@gmail.com",
+      "conctact": "3891893891",
+      "state": "Karnataka",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+.landingpage{
+    margin: -30px;
+    background-image: url('C:\Users\Lenono-PC\Desktop\React\reactproject\HM\public\images\h1.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+/* .selectLoginType{
+    
+background-color: rgb(149, 225, 237);
+box-shadow: 18px 8px 8px 18px black transparent;
+height: 300px;
+width: 500px;
+} */
+
+.selectLoginType h1{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+    color: rgb(2, 32, 2);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* .logo img{
+    height: 100px;
+    width: 100px;
+} */
+#i1{
+    margin-left: 70px;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin-right: 60px;
+
+}
+#i2{
+
+    border: 5px solid black;
+    border-radius: 30px;
+    margin-left: 70px;
+
+}
+/* .logo{
+justify-content: space-between;
+ }  */
+#i3{
+    margin-left: 100px;
+   
+    border: 2px solid rgb(4, 4, 27);
+    text-decoration: none;
+   
+    font-weight: bold;
+    height: 30px;
+    background-color: rgb(228, 249, 250);
+    color: black;
+    font-size: 30px;
+    border-radius: 8px;
+}
+#i4{
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 2px solid rgb(4, 4, 27);
+    text-decoration: none;
+    /* font-size: 80px; */
+    font-weight: bold;
+    height: 30px;
+    background-color: rgb(219, 240, 240);
+    color: black;
+    font-size: 30px;
+    padding: 5px 15px;
+    margin-left: 720px;
+}
+#i4:hover{
+    color: red;
+    background-color: rgb(1, 35, 1);
+}
+#i3:hover{
+    color: red;
+    background-color: rgb(1, 35, 1);
+}
+
+
+#id1{
+    height: 500px;
+    margin-top: 70px;
+    position: relative;
+    left: 250px;
+}
+#id3{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+    color: rgb(1, 9, 15);
+    background-color: rgb(15, 215, 230);
+}
+.us1{
+    margin: 140px 80px;
+    font-size: 20px;
+}
+.us2{
+    margin: 60px 80px;
+    font-size: 20px;
+}
+.us3{
+    
+        margin: 60px 80px;
+        font-size: 20px;
+
+}

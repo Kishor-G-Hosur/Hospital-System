@@ -1,0 +1,12 @@
+    .addDoctor{
+        margin-top: -23px;
+        height: 100vh;
+        background-image: url('C:\Users\Lenono-PC\Desktop\React\reactproject\HM\public\images\p1.webp');
+        background-position: center;
+        background-size: cover;
+ 
+    }
+    
+#btn321{
+    margin-left: 30px;
+}
